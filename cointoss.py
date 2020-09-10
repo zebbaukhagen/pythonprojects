@@ -1,4 +1,5 @@
 import random
+# Run the program, enter the number of coins to flip, get results
 
 def cointosspc():
     number = input("How many times to flip a coin?: ")
